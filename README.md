@@ -1,5 +1,3 @@
-# Lunar Lander in PyTorch
-
 ## Results
 
 ### Initial Attempts
