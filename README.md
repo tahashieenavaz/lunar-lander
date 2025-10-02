@@ -73,4 +73,10 @@ Following are the best attempts made by **the model** (epsilon < 0.1).
         <td>0.001</td>
         <td>Learning rate</td>
     </tr>
+    <tr>
+        <td>7</td>
+        <td>$\theta$</td>
+        <td>128</td>
+        <td>Memory replay for consistent learning experience.</td>
+    </tr>
 </table>
