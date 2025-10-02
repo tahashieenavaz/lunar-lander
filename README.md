@@ -14,4 +14,12 @@
 
 ### Middle Attempts
 
+<table align="center">
+  <tr>
+    <td><img src="./art/episode-249.gif" width="250"></td>
+    <td><img src="./art/episode-250.gif" width="250"></td>
+    <td><img src="./art/episode-251.gif" width="250"></td>
+  </tr>
+</table>
+
 ### Last Attempts
