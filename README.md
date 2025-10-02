@@ -6,9 +6,9 @@
 
 <table align="center">
   <tr>
-    <td><img src="./art/episode-0.gif" width="250"></td>
-    <td><img src="./art/episode-1.gif" width="250"></td>
-    <td><img src="./art/episode-2.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-0.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-1.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-2.gif" width="250"></td>
   </tr>
 </table>
 
@@ -16,17 +16,21 @@
 
 <table align="center">
   <tr>
-    <td><img src="./art/episode-249.gif" width="250"></td>
-    <td><img src="./art/episode-250.gif" width="250"></td>
-    <td><img src="./art/episode-251.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-251.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-252.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-253.gif" width="250"></td>
   </tr>
 </table>
 
-### Last Attempts
+### Final Attempts
 
-### Best Attempts
-
-Following are the best attempts made by **the model** (epsilon < 0.1).
+<table align="center">
+  <tr>
+    <td><img src="./art/lunarlanding-episode-497.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-498.gif" width="250"></td>
+    <td><img src="./art/lunarlanding-episode-499.gif" width="250"></td>
+  </tr>
+</table>
 
 ## Settings
 
