@@ -81,6 +81,17 @@ def get_environment():
 
 
 def soft_update(q, target) -> None:
+    """
+    The function `soft_update` performs a soft update of the target model using the parameters of the
+    source model with a specified tau value.
+
+    :param q: It seems like you were about to provide some information about the `q` parameter, but the
+    message got cut off.
+    :param target: The `target` parameter in the `soft_update` function is typically a neural network
+    model whose weights are being updated gradually towards another model `q`. This technique is
+    commonly used in reinforcement learning algorithms such as Deep Q-Networks (DQN) to stabilize
+    training and improve performance. The function calculates
+    """
     target_state_dict = target.state_dict()
     q_state_dict = q.state_dict()
     for key in q_state_dict:
@@ -91,6 +102,14 @@ def soft_update(q, target) -> None:
 
 
 def save_rewards(rewards):
+    """
+    The function `save_rewards` saves a list of rewards to a pickle file in a specified directory and
+    also saves a sorted version of the rewards based on the second element of each tuple in the list.
+
+    :param rewards: It looks like the `save_rewards` function is designed to save a list of rewards to
+    two pickle files. The rewards list is expected to contain tuples where the second element of each
+    tuple is used for sorting the rewards list in descending order before saving it to the second file
+    """
     os.makedirs("results", exists_ok=True)
     save_variable(rewards, "./results/rewards.pkl")
     rewards.sort(key=lambda x: x[1], reverse=True)
