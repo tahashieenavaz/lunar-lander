@@ -34,6 +34,8 @@
 
 ## Settings
 
+This table concludes the settings used to train the neural Q network, and experiment settings.
+
 <table align="center">
     <tr>
         <td>#</td>
@@ -84,3 +86,7 @@
         <td>Memory replay for consistent learning experience.</td>
     </tr>
 </table>
+
+## Reward Progress
+
+<img align="center" src="./art/chart.jpg" width="400" />
