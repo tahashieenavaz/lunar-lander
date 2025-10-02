@@ -64,7 +64,7 @@ This table concludes the settings used to train the neural Q network, and experi
     <tr>
         <td>4</td>
         <td>$\epsilon$ decay</td>
-        <td>0.99104076</td>
+        <td>0.9910407560217315</td>
         <td>Reaches the $\epsilon$ min in exactly 500 episodes.</td>
     </tr>
     <tr>
