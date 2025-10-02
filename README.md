@@ -4,11 +4,11 @@
 
 ### First Attempts
 
-<table>
+<table align="center">
   <tr>
-    <td><img src="./art/episode-0.gif" width="200"></td>
-    <td><img src="./art/episode-1.gif" width="200"></td>
-    <td><img src="./art/episode-2.gif" width="200"></td>
+    <td><img src="./art/episode-0.gif" width="250"></td>
+    <td><img src="./art/episode-1.gif" width="250"></td>
+    <td><img src="./art/episode-2.gif" width="250"></td>
   </tr>
 </table>
 
