@@ -89,4 +89,4 @@ This table concludes the settings used to train the neural Q network, and experi
 
 ## Reward Progress
 
-<img align="center" src="./art/chart.jpg" width="400" />
+<img align="center" src="./art/rewards.jpg" width="400" />
