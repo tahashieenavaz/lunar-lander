@@ -2,7 +2,7 @@
 
 ## Results
 
-### First Attempts
+### Initial Attempts
 
 <table align="center">
   <tr>
@@ -34,7 +34,7 @@
 
 ## Settings
 
-<table>
+<table align="center">
     <tr>
         <td>#</td>
         <td>Variable</td>
